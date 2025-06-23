@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-23T19:24:18 GMT+03:00" name="Default suite" finished-at="2025-06-23T19:25:17 GMT+03:00" duration-ms="59410">
+    <groups>
+    </groups>
+    <test started-at="2025-06-23T19:24:18 GMT+03:00" name="Default test" finished-at="2025-06-23T19:25:17 GMT+03:00" duration-ms="59410">
+      <class name="finalProject.finalProject.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:18 GMT+03:00" name="mySetup" finished-at="2025-06-23T19:24:21 GMT+03:00" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="SignUp()[pri:1, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:21 GMT+03:00" name="SignUp" finished-at="2025-06-23T19:24:34 GMT+03:00" duration-ms="13668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method signature="invalidLogin()[pri:2, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:34 GMT+03:00" name="invalidLogin" finished-at="2025-06-23T19:24:36 GMT+03:00" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method signature="LoginTest()[pri:3, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:36 GMT+03:00" name="LoginTest" finished-at="2025-06-23T19:24:42 GMT+03:00" duration-ms="5991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="ValidProductSearch()[pri:4, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:42 GMT+03:00" name="ValidProductSearch" finished-at="2025-06-23T19:24:47 GMT+03:00" duration-ms="4739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidProductSearch -->
+        <test-method signature="BrandNavigation()[pri:5, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:47 GMT+03:00" name="BrandNavigation" finished-at="2025-06-23T19:24:52 GMT+03:00" duration-ms="5544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrandNavigation -->
+        <test-method signature="AddRandomItemFromEyes()[pri:6, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:52 GMT+03:00" name="AddRandomItemFromEyes" finished-at="2025-06-23T19:24:58 GMT+03:00" duration-ms="5886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRandomItemFromEyes -->
+        <test-method signature="changeQuantity()[pri:7, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:24:58 GMT+03:00" name="changeQuantity" finished-at="2025-06-23T19:25:02 GMT+03:00" duration-ms="3902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeQuantity -->
+        <test-method signature="checkout()[pri:8, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:25:02 GMT+03:00" name="checkout" finished-at="2025-06-23T19:25:04 GMT+03:00" duration-ms="2132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="InvalidSearch()[pri:9, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:25:04 GMT+03:00" name="InvalidSearch" finished-at="2025-06-23T19:25:13 GMT+03:00" duration-ms="8723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSearch -->
+        <test-method signature="verifySocialLink()[pri:10, instance:finalProject.finalProject.AppTest@3569fc08]" started-at="2025-06-23T19:25:13 GMT+03:00" name="verifySocialLink" finished-at="2025-06-23T19:25:17 GMT+03:00" duration-ms="3889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialLink -->
+      </class> <!-- finalProject.finalProject.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -49,7 +49,7 @@ The project includes:
 
 A separate Excel file includes 5 manual test cases:
 - Currency switch validation
-- Product detail view
+- Product Image Zoom Functionality	
 - Special offer redirection
 - Newsletter subscription
 - Product image zoom (visual check)
